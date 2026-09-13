@@ -1,4 +1,4 @@
-# Hi, I'm Alexander 👋
+# Alexander Krett
 
 **M.S. Computer Science @ Worcester Polytechnic Institute**  
 Researching **AI safety, medical AI, LLM robustness, and representation engineering**.
@@ -11,31 +11,34 @@ Currently, I'm particularly interested in understanding **where learned behavior
 
 ## 🔬 Current Research Interests
 
-- **AI Safety**
-  - Subliminal learning and trait transmission
-  - Model bias and debiasing
-  - Representation engineering
-  - Activation steering
-  - Mechanistic analysis of learned behaviors
+### AI Safety
 
-- **Medical AI**
-  - Clinical language models
-  - LLM decision-making robustness
-  - Perturbation sensitivity
-  - Biomedical NLP
+- Subliminal learning and trait transmission
+- Model bias and debiasing
+- Representation engineering
+- Activation steering
+- Mechanistic analysis of learned behaviors
 
-- **Machine Learning Systems**
-  - PyTorch forward hooks and activation analysis
-  - GPU and HPC experimentation
-  - LLM evaluation pipelines
-  - Local model inference and deployment
+### Medical AI
+
+- Clinical language models
+- LLM decision-making robustness
+- Perturbation sensitivity
+- Biomedical NLP
+
+### Machine Learning Systems
+
+- PyTorch forward hooks and activation analysis
+- GPU and HPC experimentation
+- LLM evaluation pipelines
+- Local model inference and deployment
 
 ---
 
 ## 🎓 Currently
 
 **M.S. in Computer Science**  
-Worcester Polytechnic Institute
+**Worcester Polytechnic Institute**
 
 I'm currently conducting research with **Dr. Walter Gerych's research group**, working on problems involving medical AI, LLM robustness, and AI safety.
 
@@ -127,20 +130,20 @@ ML Systems
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexander-krett&show_icons=true&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-alexander--krett-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexander-krett)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander-krett&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexander-krett&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
 ## 🔗 Find Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-alexander--krett-181717?logo=github)](https://github.com/alexander-krett)
+[![GitHub](https://img.shields.io/badge/GitHub-alexander--krett-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexander-krett)
 
 ---
 
 ## 🌲 Outside of Research
 
-When I'm not working on ML or experimenting with my homelab, you'll probably find me **hiking, climbing, kayaking, or exploring somewhere around New England**.
+Outside of research and computing, I'm into **CrossFit, hiking, climbing, and kayaking**, and I spend a fair amount of time exploring New England.
 
 I'm always interested in interesting research problems, unusual ML experiments, and systems projects.
