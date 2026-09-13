@@ -1,4 +1,4 @@
-# Hi, I'm Alexander Krett 👋
+# Hi, I'm Alexander 👋
 
 **M.S. Computer Science @ Worcester Polytechnic Institute**  
 Researching **AI safety, medical AI, LLM robustness, and representation engineering**.
