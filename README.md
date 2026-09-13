@@ -128,19 +128,6 @@ ML Systems
 
 ---
 
-## 📊 GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-alexander--krett-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alexander-krett)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=alexander-krett&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 🔗 Find Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-alexander--krett-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexander-krett)
-
----
 
 ## 🌲 Outside of Research
 
