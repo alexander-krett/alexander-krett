@@ -39,10 +39,6 @@ Worcester Polytechnic Institute
 
 I'm currently conducting research with **Dr. Walter Gerych's research group**, working on problems involving medical AI, LLM robustness, and AI safety.
 
-A question I'm especially interested in:
-
-> Where does a learned behavior live inside a neural network, and can we modify that representation without significantly degrading the rest of the model?
-
 ---
 
 ## 🧪 Background
